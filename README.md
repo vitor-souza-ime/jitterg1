@@ -1,4 +1,4 @@
-# DDS Sensor Jitter Analysis for Unitree Humanoid Robot
+# DDS Sensor Jitter Analysis for Unitree G1 EDU Humanoid Robot
 
 ## Overview
 
